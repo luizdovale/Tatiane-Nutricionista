@@ -448,7 +448,7 @@ main {
 /*RESPONSIVE*/
 @media (max-width: 1198px) {
   #home img {
-    width: 45rem;
+    width: 35rem;
   }
 }
 
@@ -458,7 +458,7 @@ main {
   }
 
   #home img {
-    width: 38rem;
+    width: 30rem;
   }
 
   #forms-of-service .grid h3 {
