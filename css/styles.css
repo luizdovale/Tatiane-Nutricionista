@@ -489,7 +489,7 @@ main {
     gap: 2rem;
   }
   #header .logo img {
-    width: 290px;
+    width: 270px;
     height: auto;
   }
   #header nav .menu ul.grid-menu li a.title {
@@ -684,7 +684,7 @@ main {
   .main-bg {
     background-size: contain; /* Ajusta a imagem para caber no container */
     background-position: top center; /* Ajusta a posição da imagem */
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
    }
 }
   /*form of services*/
