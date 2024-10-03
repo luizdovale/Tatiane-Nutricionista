@@ -449,9 +449,12 @@ main {
 @media (max-width: 1198px) {
   #home img {
     width: 45rem;
+    height: 45rem; /* Adicione esta linha para garantir que a altura seja igual à largura */
     border-radius: 50%;
+    object-fit: cover; /* Mantém o conteúdo da imagem dentro da borda */
   }
 }
+
 
 @media (max-width: 1130px) {
   h2 {
@@ -460,7 +463,9 @@ main {
 
   #home img {
     width: 38rem;
+    height: 38rem; /* Adicione esta linha para garantir que a altura seja igual à largura */
     border-radius: 50%;
+    object-fit: cover; /* Mantém o conteúdo da imagem dentro da borda */
   }
 
   #forms-of-service .grid h3 {
