@@ -448,6 +448,7 @@ main {
 /*RESPONSIVE*/
 @media (max-width: 1198px) {
   #home img {
+    margin-top: 20px;
     width: 45rem;
     height: 45rem; /* Adicione esta linha para garantir que a altura seja igual à largura */
     border-radius: 50%;
@@ -462,6 +463,7 @@ main {
   }
 
   #home img {
+    margin-top: 20px;
     width: 38rem;
     height: 38rem; /* Adicione esta linha para garantir que a altura seja igual à largura */
     border-radius: 50%;
