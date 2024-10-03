@@ -683,10 +683,11 @@ main {
 @media (max-width: 768px) {
   .main-bg {
     background-size: contain; /* Ajusta a imagem para caber no container */
-    background-position: top center; /* Ajusta a posição da imagem */
-    background-color: rgba(0, 0, 0, 0.2);
-   }
-}
+    background-position: top center; /* Centraliza a imagem no topo */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+    background-color: rgba(0, 0, 0, 0.2); /* Aplica uma camada semi-transparente */
+    position: relative; /* Necessário para aplicar pseudo-elemento */
+  }
   /*form of services*/
 
   #forms-of-service .grid h3.break {
