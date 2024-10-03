@@ -460,6 +460,7 @@ main {
 @media (max-width: 1130px) {
   h2 {
     font-size: 3.5rem;
+    color: #ffffff;
   }
 
   #home img {
@@ -482,6 +483,7 @@ main {
 @media (max-width: 991px) {
   h2 {
     font-size: 3rem;
+    color: #ffffff;
   }
 
   /*header*/
