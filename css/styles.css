@@ -480,7 +480,7 @@ main {
     gap: 2rem;
   }
   #header .logo img {
-    width: 360px;
+    width: 330px;
     height: auto;
   }
   #header nav .menu ul.grid-menu li a.title {
