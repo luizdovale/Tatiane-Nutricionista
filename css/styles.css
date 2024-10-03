@@ -672,7 +672,13 @@ main {
     margin: auto;
     margin-top: 2rem;
   }
-
+/*LAYOUTS*/
+@media (max-width: 768px) {
+  .main-bg {
+    background-size: contain; /* Ajusta a imagem para caber no container */
+    background-position: top center; /* Ajusta a posição da imagem */
+  }
+}
   /*form of services*/
 
   #forms-of-service .grid h3.break {
