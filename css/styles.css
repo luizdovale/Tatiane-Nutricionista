@@ -684,7 +684,8 @@ main {
   .main-bg {
     background-size: contain; /* Ajusta a imagem para caber no container */
     background-position: top center; /* Ajusta a posição da imagem */
-  }
+    background-color: rgba(0, 0, 0, 0.5);
+   }
 }
   /*form of services*/
 
