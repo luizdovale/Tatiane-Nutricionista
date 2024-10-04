@@ -684,7 +684,8 @@ main {
   .main-bg {
     background-size: cover;
     background-position: top center;
-    background-image: url('assets\img\fundo site responsivo.jpg');
+    background-image: url('https://unsplash.com/pt-br/fotografias/uma-mesa-vermelha-com-uma-lanterna-vermelha-em-cima-dela-xZbV1YIhUXw');
+    background-color: rgba(0, 0, 0, 0.1);
   }
 
   /*form of services*/
