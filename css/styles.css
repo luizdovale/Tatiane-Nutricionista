@@ -460,7 +460,6 @@ main {
 @media (max-width: 1130px) {
   h2 {
     font-size: 3.5rem;
-    color: #ffffff;
   }
 
   #home img {
@@ -483,7 +482,6 @@ main {
 @media (max-width: 991px) {
   h2 {
     font-size: 3rem;
-    color: #ffffff;
   }
 
   /*header*/
@@ -684,11 +682,10 @@ main {
 /*LAYOUTS*/
 @media (max-width: 768px) {
   .main-bg {
-    background-size: cover; /* Ajusta a imagem para cobrir todo o campo */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita a repetição da imagem */
-    background-color: rgba(0, 0, 0, 0.2); /* Mantém a sobreposição opaca */
-    position: relative;
+    background-size: contain;
+    background-position: top center;
+    background-image: url('assets\img\fundo site responsivo.svg');
+    background-color: rgba(0, 0, 0, 0.5);
   }
 
   /*form of services*/
