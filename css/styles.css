@@ -682,10 +682,9 @@ main {
 /*LAYOUTS*/
 @media (max-width: 768px) {
   .main-bg {
-    background-size: contain;
+    background-size: cover;
     background-position: top center;
-    background-image: url('https://drive.google.com/uc?export=view&id=1obupAAPbLyi333bWLdYbaUMKx_Cca7sL');
-    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('assets\img\fundo site responsivo.jpg');
   }
 
   /*form of services*/
