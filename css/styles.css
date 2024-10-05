@@ -682,12 +682,13 @@ main {
 /*LAYOUTS*/
 @media (max-width: 768px) {
   .main-bg {
-    background-size: cover;
-    background-position: top center;
-    background-image: url('https://unsplash.com/pt-br/fotografias/uma-mesa-vermelha-com-uma-lanterna-vermelha-em-cima-dela-xZbV1YIhUXw');
-    background-color: rgba(0, 0, 0, 0.1);
+    background-image: url('https://www.freepik.com/free-ai-image/delicious-vegetables-floating_72554362.htm?sign-up=google#fromView=search&page=4&position=38&uuid=3ecfbdf3-ec1e-4028-8b6b-b0f412d144de');
+    background-size: cover; /* Cobre toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: scroll; /* Para telas pequenas */
   }
-
+}
+https://www.freepik.com/free-ai-image/delicious-vegetables-floating_72554362.htm?sign-up=google#fromView=search&page=4&position=38&uuid=3ecfbdf3-ec1e-4028-8b6b-b0f412d144de
   /*form of services*/
 
   #forms-of-service .grid h3.break {
