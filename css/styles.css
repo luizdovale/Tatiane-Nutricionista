@@ -686,6 +686,7 @@ main {
     background-size: cover; /* Cobre toda a área */
     background-position: center; /* Centraliza a imagem */
     background-attachment: scroll; /* Para telas pequenas */
+    background-color: rgba(0, 0, 0, 0.1);
   }
 }
 
