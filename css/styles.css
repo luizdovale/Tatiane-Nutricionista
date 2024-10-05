@@ -682,7 +682,7 @@ main {
 /*LAYOUTS*/
 @media (max-width: 768px) {
   .main-bg {
-    background-image: url('https://www.freepik.com/free-ai-image/delicious-vegetables-floating_72554362.htm?sign-up=google#fromView=search&page=4&position=38&uuid=3ecfbdf3-ec1e-4028-8b6b-b0f412d144de');
+    /*background-image: url('https://www.freepik.com/free-ai-image/delicious-vegetables-floating_72554362.htm?sign-up=google#fromView=search&page=4&position=38&uuid=3ecfbdf3-ec1e-4028-8b6b-b0f412d144de');*/
     background-size: cover; /* Cobre toda a área */
     background-position: center; /* Centraliza a imagem */
     background-attachment: scroll; /* Para telas pequenas */
